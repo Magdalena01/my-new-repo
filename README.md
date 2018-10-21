@@ -1,2 +1,4 @@
-# my-new-repo
-my new repository
+# Witaj w moim projekcie!
+To jest testowe repozytorium
+
+#My project describtion
