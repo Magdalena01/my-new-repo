@@ -1,4 +1,7 @@
 # Witaj w moim projekcie!
 To jest testowe repozytorium
 
-#My project describtion
+##My project describtion
+
+
+### Dodatkowe informacje
